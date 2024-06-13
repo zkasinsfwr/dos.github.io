@@ -4,7 +4,6 @@ body {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    height: 59vh;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -47,7 +46,7 @@ body {
 }
 
 .input:hover {
-   box-shadow: 4px 4px 8px rgba(1, 1, 1, 111);
+   box-shadow: 4px 4px 8px rgba(0, 0, 0, 100);
 }
 
 .button {
